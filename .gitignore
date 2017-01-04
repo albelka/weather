@@ -1,0 +1,7 @@
+node_modlules/
+.DS_Store
+bower_components/
+bower_components/
+build/
+tmp/
+.env
